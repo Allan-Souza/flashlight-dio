@@ -1,9 +1,9 @@
 # flashlight dio
 app de lanterna desenvolvido em react native usando o sensor de movimento para o bootcamp decola tech
 
-![print tela ligada](https://user-images.githubusercontent.com/60395738/174854831-19bdf384-6822-4296-9d87-91fd7e5f5084.jpeg)
+![print ligada](https://user-images.githubusercontent.com/60395738/174856651-9d0307f2-c4e0-402b-80f4-0e171e3c6acf.png)
 
-![print tela desligada](https://user-images.githubusercontent.com/60395738/174854912-62a12e9b-1617-47df-9993-f1368726d947.jpeg)
+![print desligada](https://user-images.githubusercontent.com/60395738/174856675-b02b6161-d004-4fa2-a8d1-8f278b23731f.png)
 
 ## Conteúdo
 
